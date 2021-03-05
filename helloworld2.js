@@ -1,5 +1,5 @@
 function hello() {
-  let response = "Hello Adam and Daniel!";
+  let response = "Hello World!";
   return response
 }
 
